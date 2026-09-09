@@ -25,19 +25,19 @@
 ### 👾 About Me
 
 ```yaml
-name:       Jiang-yu-an
-role:       Student / Front-End Developer / Open-Source Builder
-focus:      Vue3 · Data Visualization · Full-Stack
-status:     Building & shipping every day
+姓名:       江予安
+身份:       在校学生 / 前端开发者
+方向:       Vue3 · TypeScript · 数据可视化
+状态:       持续开发 · 持续学习 · AI辅助开发
 ```
 
-- 🌱 **大学生** 对编程充满热情，目标成为一名优秀的前端工程师
-- 🖥️ **前端框架** Vue3 + Vite + TypeScript 现代化工程化实践
-- 📊 **数据可视化** ECharts 大数据量渲染 / BI / 数据平台
-- ⚙️ **前端工程化** 组件化、状态管理（Pinia）、复杂表格、性能优化
-- 🔌 **全栈能力** Node.js + MySQL + Redis + WebSocket + Docker
-- 💬 **擅长** TypeScript / JavaScript / Vue / Node.js / CSS / Python
-- ⚡ **Fun fact** 一个项目从前端跨到数据可视化，再跨到全栈——万物皆可造
+- 🌱 **在校学生**，持续学习前端开发，目标成为一名优秀的前端工程师
+- 🖥️ **前端开发** Vue3 + Vite + TypeScript，注重组件化与工程化实践
+- 🎨 **界面与交互** HTML / CSS / JavaScript，关注响应式布局与用户体验
+- 📊 **数据可视化** ECharts + Dashboard，探索复杂数据展示与交互
+- ⚡ **性能优化** 无限滚动、图片懒加载、虚拟列表、防抖与异步请求优化
+- 🔌 **全栈实践** Node.js / PHP + MySQL / RESTful API / WebSocket
+- 🤖 **AI Coding** 使用 AI 辅助开发、重构与调试，持续探索更高效的开发方式
 
 <p align="center">
 <a href="https://github.com/Jiang-yu-an">
@@ -64,10 +64,10 @@ status:     Building & shipping every day
 
 | 📌 正在开发 | 📚 正在学习 / 探索 |
 |:---|:---|
-| • 游戏数据分析 / 运营管理平台 — ECharts + 10万条模拟数据复杂表格 | • TypeScript 进阶 / 前端工程化 |
-| • 前端组件库（复杂表格：分页/排序/筛选/搜索/虚拟滚动） | • 数据可视化 / 大数据量渲染 |
-| • 数据可视化 Dashboard | • 浏览器原理 / 性能优化 |
-| • 全栈小项目（Node.js + MySQL + Redis） | • AI Coding / LLM 应用 |
+| • GameOps 游戏数据分析 / 运营平台 — Vue3 + TypeScript + ECharts + 10万级模拟数据 | • TypeScript 进阶 / 前端工程化 |
+| • 数据可视化 Dashboard — 数据分析、运营指标、实时监控与异常分析 | • 数据可视化 / 大数据量渲染 |
+| • 前端性能实践 — 虚拟列表、懒加载、防抖节流、WebSocket 实时数据 | • 浏览器原理 / JavaScript 性能优化 |
+| • 个人 Web 项目 — Vue3 / Node.js / PHP + MySQL / RESTful API | • AI Coding / LLM 应用 |
 
 ---
 
@@ -80,49 +80,26 @@ status:     Building & shipping every day
 **💻 编程语言**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,css,html,python&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,css,html&theme=dark">
 </p>
 
 **🌐 前端 & 框架**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,vite,typescript,tailwind,pinia,echarts&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vue,vite,tailwind,pinia&theme=dark">
 </p>
 
 **⚙️ 后端 & 数据库**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mysql,redis&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,mysql,redis,php&theme=dark">
 </p>
 
 **🐳 DevOps & 工具链**
 
 <p>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,vim,docker,nginx,linux&theme=dark">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode&theme=dark">
 </p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=Jiang-yu-an&theme=tokyonight&show_icons=true&hide_border=true&show=reviews&hide_title=false&number_format=long&rank_icon=github" />
-<img width="390" src="https://streak-stats.demolab.com?user=Jiang-yu-an&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Jiang-yu-an&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-
-<p align="center">
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiang-yu-an&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-</p>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      SOCIAL BADGES                            -->
